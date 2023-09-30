@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Student/AndroidStudioProjects/korol/p01firstproject/src/main/res/layout/activity_main.xml" value="0.33152173913043476" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/korol/p02secondproject/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/korol/p03thirdproject/src/main/res/layout/activity_button_click_counter.xml" value="0.1" />
       </map>
     </option>

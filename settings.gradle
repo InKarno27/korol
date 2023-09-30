@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "korol"
 include ':app'
 include ':p03thirdproject'
+include ':p01firstproject'
+include ':p02secondproject'
